@@ -2,7 +2,7 @@
 
 ## Description
 
-Password security is incredibly important, especially in a world where so much sensitive information is stored electronically. This password generator was updated with javascript and will ensure that your password provides greater security to keep sensitive information safe.
+Password security is incredibly important, especially in a world where so much sensitive information is stored electronically. This password generator was updated with javascript that will ensure your password provides greater security to keep sensitive information safe.
 
 ## Usage
 
