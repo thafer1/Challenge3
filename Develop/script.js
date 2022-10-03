@@ -7,7 +7,6 @@ generateBtn.addEventListener("click", writePassword);
 function passwordGenerator() {
 
   var userChoice = window.prompt("How many characters would you like in your password?");
-
   var passwordLength = parseInt(userChoice);
 
   if (isNaN(passwordLength)) {
